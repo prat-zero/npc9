@@ -1,2 +1,2 @@
-# npc9
+# NPC9
 Yet another general purpose Discord bot
