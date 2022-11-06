@@ -1,2 +1,2 @@
 # npc9
-Yet another general purpose Discord bot ¯\_(ツ)_/¯
+Yet another general purpose Discord bot
